@@ -6,7 +6,7 @@
 **Open Problem Garden**
 http://www.openproblemgarden.org/search/
 
-** Wolfram MathWorld**
+**Wolfram MathWorld**
 http://mathworld.wolfram.com/search/?query=
 
 **Math Wikia**
